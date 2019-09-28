@@ -28,6 +28,9 @@ include('config.php');
 						<li class="nav-item active">
 						<a class="nav-link" href="logout.php">Logout</a>
 					</li>
+					<li class="nav-item active">
+						<a class="nav-link" href="export_excel.php">Export ke Excel</a>
+					</li>
 
 					</li>
 				</ul>
